@@ -15,7 +15,7 @@ class _mainScreenState extends State<mainScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.greenAccent,
-        title: Text(""),
+        title: Text("hello dart"),
         leading: IconButton(
           onPressed: () {},
           color: Colors.black,
