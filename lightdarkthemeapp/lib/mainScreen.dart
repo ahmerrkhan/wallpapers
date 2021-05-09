@@ -87,7 +87,7 @@ class _mainScreenState extends State<mainScreen> {
                             children: [
                               _imageContainer1('1', 'Hello'),
                               _imageContainer2('2', 'Nature'),
-                              _imageContainer1('1', 'Hello'),
+                              _imageContainer1('1', 'Future'),
                               _imageContainer1('1', 'Hello'),
                               _imageContainer1('1', 'Hello'),
                               _imageContainer1('1', 'Hello'),
