@@ -75,7 +75,7 @@ class _mainScreenState extends State<mainScreen> {
                       children: [
                         Text(
                           'Categories',
-                          style: TextStyle(color: Colors.black, fontSize: 30.0),
+                          style: TextStyle(color: Colors.black, fontSize: 28.0),
                         ),
                         SizedBox(
                           height: 15.0,
