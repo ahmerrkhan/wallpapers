@@ -116,7 +116,7 @@ class _mainScreenState extends State<mainScreen> {
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.vertical(
-                  bottom: Radius.circular(30.0),
+                  bottom: Radius.circular(32.0),
                 ),
               ),
             ),
