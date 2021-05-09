@@ -56,7 +56,7 @@ class _mainScreenState extends State<mainScreen> {
                     ),
                     child: TextField(
                       decoration: InputDecoration(
-                        hintText: 'Enter poet name',
+                        hintText: 'Enter name',
                         hintStyle: TextStyle(color: Colors.grey),
                         border: InputBorder.none,
                         prefix: Icon(
