@@ -70,7 +70,7 @@ class _mainScreenState extends State<mainScreen> {
                     height: 15.0,
                   ),
                   Padding(
-                    padding: EdgeInsets.all(10.0),
+                    padding: EdgeInsets.all(12.0),
                     child: Column(
                       children: [
                         Text(
