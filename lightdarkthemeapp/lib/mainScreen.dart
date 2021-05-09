@@ -49,7 +49,7 @@ class _mainScreenState extends State<mainScreen> {
                     height: 25.0,
                   ),
                   Container(
-                    padding: EdgeInsets.all(10.0),
+                    padding: EdgeInsets.all(12.0),
                     decoration: BoxDecoration(
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(16.0),
