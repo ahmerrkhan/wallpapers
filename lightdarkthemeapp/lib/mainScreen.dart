@@ -67,7 +67,7 @@ class _mainScreenState extends State<mainScreen> {
                     ),
                   ),
                   SizedBox(
-                    height: 20.0,
+                    height: 15.0,
                   ),
                   Padding(
                     padding: EdgeInsets.all(10.0),
