@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class viewPaper extends StatefulWidget {
-  @override sdsdsd cdcdc dcd 
+  @override sdsdsd cdcdc 
   _viewPaperState createState() => _viewPaperState();
 }
 
